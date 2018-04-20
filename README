@@ -1,5 +1,4 @@
-This was an attempt to show the construction of a recommendation system which functions on the basis of a 
-multi-label classification.
+This was an attempt to show the construction of a recommendation system which functions on the basis of a multi-label classification.
 
 Using a classifc Random Forest Classifier, chained one after the other, allows room for the consideration of relationships 
 between each of the 4 products (Assurance Vie, Credit Immobilier, Livret A and PEA)
